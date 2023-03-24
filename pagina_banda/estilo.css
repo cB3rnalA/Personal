@@ -1,11 +1,10 @@
-.bodyindex {
-    background-color: #ffdd90;
-    /*****  background-image: url("img/fondo.jpg"); *****/
+.fondos {
+    background-image: url("img/fondo.jpg"); 
     background-repeat: no-repeat;
     background-size: cover;
     }
-
-a{
+/*****  WA *****/
+.an{
     color: black;
 }
 
@@ -14,3 +13,4 @@ a{
     width: 100% ;
     text-align: center;
 }
+
