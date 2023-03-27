@@ -1,0 +1,14 @@
+.fondoini {
+    background-image: url("../img/fondo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
+.linksss {
+    color: rgb(146, 103, 43);
+}
+
+.letras {
+    color: rgb(168, 111, 32);
+}
